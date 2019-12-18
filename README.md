@@ -17,6 +17,8 @@ To create this project I used the what I had learned in the module as well as th
 To me the visulizer feels a bit flat I think all the scripts and systems are there to make something that really Pops and is visually immersive. I do think that the way the path is endless and there is some randomization in the Cubes along the Path make it intresting but the big sphre that follows the user could have been built on. 
 another thing that I was not able to get working right was having the path rise up rather than just spawn infront of the player.
 
+##Youtube Video
+[![Demo video](https://github.com/Aodh77/gamesproject/blob/master/Thumbnail.png)](https://www.youtube.com/watch?v=_Q-jjnGZewA)
 
 ##Inspiration
 Demoscene:
